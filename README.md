@@ -1,91 +1,100 @@
-# Hi 👋, I'm Ahmed Amin
+<h1 align="center">Hi 👋, I'm Ahmed Amin</h1>
+<h3 align="center">Front-End Developer | React.js • Next.js • React Native</h3>
 
-💻 Front-End Developer (React.js | Next.js | React Native)  
+<p align="center">
+  <a href="https://github.com/Ahmedaminn1">
+    <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=22&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Next.js+%7C+React+Native;Building+Modern+UI+%F0%9F%9A%80;Always+Learning+New+Things" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me  
+💻 Junior Front-End Developer passionate about building scalable & modern UI  
+🎓 Computer Science Student  
+👨‍🏫 Front-End Instructor  
 📍 Cairo, Egypt  
 
 ---
 
-## 🚀 About Me
-- Junior Front-End Developer specialized in building modern, responsive UI
-- Experienced in React.js, Next.js, and React Native
-- Passionate about performance, scalability, and clean code
-- Front-End Instructor teaching students real-world development skills
+## 🛠️ Tech Stack  
+
+### 🎨 Frontend  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFDD00?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
+
+### ⚙️ State Management  
+![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery)
+
+### 🧰 Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest)
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Experience  
 
-### 💻 Frontend
-- HTML5, CSS3, JavaScript (ES6+), TypeScript  
-- React.js, Next.js, React Native  
-- Tailwind CSS, Bootstrap, Styled Components  
+### 👨‍🏫 Front-End Instructor  
+- Teaching HTML, CSS, JavaScript & React  
+- Helping students build real-world projects  
+- Mentoring & debugging  
 
-### ⚙️ State Management
-- Context API  
-- Redux Toolkit  
-- React Query  
-
-### 🔧 Tools & Platforms
-- Git & GitHub  
-- Jest & React Testing Library  
-- Postman  
-- Figma  
+### 🏦 Banque Misr Intern  
+- Backend: Java & Spring Boot (APIs, DB, Testing)  
+- Frontend: Angular & UI Development  
 
 ---
 
-## 💼 Experience
+## 🚀 Featured Projects  
 
-### 👨‍🏫 Front-End Instructor
-- Teach HTML, CSS, JavaScript, React  
-- Help students build real-world projects  
-- Explain modern UI concepts & best practices  
+### 🛒 Shop Mart  
+🔗 https://github.com/Ahmedaminn1/Next-E-Commerce  
+- Next.js 15 + TypeScript  
+- Authentication with NextAuth  
+- Redux Toolkit for state management  
 
-### 🏦 Banque Misr Intern
-- Backend Track: Java & Spring Boot (APIs, DB, Testing)  
-- Frontend Track: Angular & UI Development  
+### 📱 Social App  
+🔗 https://github.com/Ahmedaminn1/social-app  
+- Authentication & profiles  
+- Posts, comments, real-time updates  
 
----
-
-## 🚀 Projects
-
-### 🛒 Shop Mart (E-commerce App)
-- Built with Next.js 15, TypeScript, Redux Toolkit  
-- Authentication using NextAuth.js  
-- API integration for products & orders  
-- Clean responsive UI with Tailwind & ShadCN  
-
-### 📱 Social App
-- Full social platform with authentication  
-- Posts, comments, profile management  
-- Real-time updates & scalable architecture  
-
-### ✅ Todo App
-- Task management with full CRUD operations  
+### ✅ Todo App  
+🔗 https://github.com/Ahmedaminn1/todoList_React  
+- Full CRUD operations  
 - Clean UI with Tailwind  
-- State management using React  
-
-### 🌦️ Weather App
-- Real-time weather data باستخدام API  
-- City search + dynamic UI  
-
-### 📦 CRUD System
-- Full product management system  
-- Vanilla JS + Bootstrap  
-- Fast UI updates & optimized UX  
 
 ---
 
-## 📊 GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmedaminn1&show_icons=true)
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedaminn1&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedaminn1&theme=tokyonight" />
+</p>
 
 ---
 
-## 🌐 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/ahmed-aminn  
-- 💻 GitHub: https://github.com/Ahmedaminn1  
-- 📧 Email: ahmedamin372002@gmail.com  
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-aminn">
+    <img src="https://img.shields.io/badge/LinkedIn-00A0DC?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:ahmedamin372002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-## ⚡ Fun Fact
-I enjoy turning complex ideas into simple and beautiful user interfaces 🚀
+## ⚡ Fun Fact  
+🚀 I turn ideas into real-world applications with clean UI & smooth UX
