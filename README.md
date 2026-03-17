@@ -29,6 +29,7 @@
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
 
 ### ⚙️ State Management  
+![Context API](https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery)
 
